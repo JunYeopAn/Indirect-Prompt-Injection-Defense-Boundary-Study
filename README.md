@@ -313,4 +313,3 @@ indirect-prompt-injection-defense-boundary/
 
 정보보호프로젝트1 2조  
 프로젝트 관련 문의는 GitHub Issue 또는 팀원에게 연락해 주세요.
-::
