@@ -241,28 +241,9 @@ indirect-prompt-injection-defense-boundary/
 ├── README.md
 │
 ├── docs/
-│   ├── final_report.pdf
-│   ├── final_presentation.pdf
-│   ├── experiment_summary.md
-│   ├── defense_boundary_analysis.md
-│   └── references.md
-│
-├── results/
-│   ├── gemini_results.md
-│   ├── copilot_results.md
-│   ├── asr_summary.csv
-│   └── e1_e5_classification.csv
-│
-├── assets/
-│   ├── screenshots/
-│   ├── diagrams/
-│   └── presentation_images/
-│
-└── references/
-    ├── papers.md
-    ├── google_security_docs.md
-    ├── microsoft_security_docs.md
-    └── nis_ai_security_guide.md
+   ├── final_presentation.pdf
+   └── final_report.pdf
+
 ```
 
 ---
