@@ -240,9 +240,9 @@ Copilot은 “읽되 위험 행동은 막는다”에 가까운 단계별 제한
 indirect-prompt-injection-defense-boundary/
 ├── README.md
 │
-├── docs/
-   ├── final_presentation.pdf
-   └── final_report.pdf
+└── docs/
+    ├── final_presentation.pdf
+    └── final_report.pdf
 
 ```
 
