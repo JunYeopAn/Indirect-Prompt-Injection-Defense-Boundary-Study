@@ -1,7 +1,7 @@
 # Indirect Prompt Injection Defense Boundary Study  
 ### NIS AI 보안 가이드북 기반 간접 프롬프트 인젝션 시나리오 실증 및 방어 경계 비교 분석
 
-# 26.03.02~26.06.16.
+### 기간 : 26.03.02~26.06.16.
 ---
 
 ## 👥 팀원
